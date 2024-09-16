@@ -38,7 +38,6 @@ Make sure the following tools are installed on your system:
 
 - `cat`: Standard tool for displaying file contents (usually pre-installed on most Unix-like systems).
 
-
 ## Installation
 
 No installation is required. Just download or copy the script and make it executable:
